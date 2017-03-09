@@ -1,0 +1,4 @@
+facebookads==2.6.2
+flake8==3.0.4
+peewee==2.8.1
+openpyxl==2.4.0
